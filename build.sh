@@ -1,0 +1,1 @@
+dart compile js -o dist/awesome_datetime.js web/main.dart
